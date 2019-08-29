@@ -1,8 +1,8 @@
 {
-	"AWSTemplateFormatVersion": "2010-09-09"
-	"Description": "A sample template",
-		"Resources": {
-			"myS3Bucket": {
+	"AWSTemplateFormatVersion" : "2010-09-09"
+	"Description" : "A sample template",
+		"Resources" : {
+			"myS3Bucket" : {
 				"Type" : "AWS::S3::Bucket",
   				"Properties" : {
 							"BucketName" : "JaySwainJenkin"
